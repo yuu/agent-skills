@@ -1,0 +1,3 @@
+name: kintai-check
+version: 0.0.1
+description: Check monthly attendance via freee HR API. Fetches work records and all approval request types (work-time corrections, paid holidays, special holidays, overtime), merges them by date, and outputs Markdown tables. Use when     the user wants to check attendance (勤怠チェック, 勤怠確認), find missing clock-ins (打刻漏れ), or review the status of any attendance-related request (勤怠修正申請, 有給申請, 特別休暇申請, 残業申請). Supports year/month specification (default is current month).
