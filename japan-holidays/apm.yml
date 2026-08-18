@@ -1,0 +1,4 @@
+name: jp-holidays
+version: 0.0.1
+description: Get Japan's national holidays from the Cabinet Office. Use this skill when you need to retrieve Japanese holiday information. Supports year specification (default is current year). Outputs in Markdown table format.
+homepage: https://gist.github.com/amay077/6aa6b444ee2a2ae5c20c4bc981f4b1f9
