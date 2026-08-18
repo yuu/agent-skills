@@ -1,0 +1,3 @@
+name: kintai-fix
+version: 0.0.1
+description: freee人事労務APIで勤怠修正申請 (打刻漏れの修正) を送信する。送信前にユーザーへ内容確認する。
