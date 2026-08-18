@@ -1,0 +1,12 @@
+{
+  "repositories": {
+    "example-repo":   { "display": "サンプル会社 業務システム", "company": "サンプル会社" },
+    "example-repo-2": { "display": "サンプル会社 帳票システム", "company": "サンプル会社" },
+    "another-repo":   { "display": "別会社ECサイト",            "company": "別会社" }
+  },
+  "priorities": {
+    "P0": "P-High",
+    "P1": "P-Medium",
+    "P2": "P-Low"
+  }
+}

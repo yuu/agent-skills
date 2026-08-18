@@ -1,0 +1,3 @@
+name: project-list
+description: GitHub Project のアイテム一覧を Markdown タスクリストとして ~/.cache/task/task.md に出力する。
+version: 0.0.1
