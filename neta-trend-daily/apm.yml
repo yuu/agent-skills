@@ -1,0 +1,3 @@
+name: neta-trend-daily
+version: 0.0.1
+description: はてなブックマークIT・Hacker News・Reddit(13サブレッド)から日次のトレンドネタを収集し、興味度付きのMarkdownを ideas/daily/YYYYMMDD-trend.md に保存する。

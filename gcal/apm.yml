@@ -1,0 +1,3 @@
+name: gcal
+version: 0.0.1
+description: Gmail本文からGoogle Calendarの予定作成リンクを生成する。メール本文からイベント名・開始/終了日時・場所・詳細を抽出し、URLエンコード済みのリンクを出力する。
